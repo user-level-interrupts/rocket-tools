@@ -12,7 +12,7 @@
 	url = https://github.com/riscv/riscv-tests.git
 [submodule "riscv-gnu-toolchain"]
 	path = riscv-gnu-toolchain
-	url = https://github.com/riscv/riscv-gnu-toolchain.git
+	url = https://github.com/user-level-interrupts/riscv-gnu-toolchain.git
 [submodule "riscv-openocd"]
 	path = riscv-openocd
 	url = https://github.com/riscv/riscv-openocd.git
