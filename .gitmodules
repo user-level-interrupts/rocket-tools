@@ -9,7 +9,7 @@
 	url = https://github.com/user-level-interrupts/riscv-opcodes.git
 [submodule "riscv-tests"]
 	path = riscv-tests
-	url = https://github.com/riscv/riscv-tests.git
+	url = https://github.com/user-level-interrupts/riscv-tests.git
 [submodule "riscv-gnu-toolchain"]
 	path = riscv-gnu-toolchain
 	url = https://github.com/user-level-interrupts/riscv-gnu-toolchain.git
